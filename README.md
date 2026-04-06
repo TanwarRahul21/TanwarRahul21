@@ -101,6 +101,6 @@ I'm a passionate IT engineering student who loves building things for the web. I
 
 *"Code. Ship. Learn. Repeat."*
 
-⭐ If you like what I build, drop a star — it means a lot!
+ If you like what I build, drop a star — it means a lot!
 
 </div>
