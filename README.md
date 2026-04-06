@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-red-tqutq6nd1i.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/top_rahul21)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanwarrahul9982@gmail.com)
 
 </div>
@@ -52,7 +52,7 @@ I'm a passionate IT engineering student who loves building things for the web. I
 
 ---
 
-## Currently Learning 📚
+## Currently Learning 
 
 -  Advanced React (hooks, performance, animations)
 -  Node.js + Express REST APIs
@@ -61,7 +61,7 @@ I'm a passionate IT engineering student who loves building things for the web. I
 
 ---
 
-## Goals 🎯
+## Goals 
 
 - [ ] Ship 3 real full-stack projects by end of year
 - [ ] Land a tech internship
@@ -70,7 +70,7 @@ I'm a passionate IT engineering student who loves building things for the web. I
 
 ---
 
-## Projects 🛠️
+## Projects 
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
