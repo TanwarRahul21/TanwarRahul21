@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Rahul Tanwar 👋
+# Hey, I'm Rahul Tanwar 
 
 **Full Stack Developer · IT Engineering Student · Builder**
 
