@@ -19,11 +19,11 @@
 
 I'm a passionate IT engineering student who loves building things for the web. I'm on a mission to go from beginner to professional — learning in public, shipping projects, and growing every day.
 
-- 🎓 B.Tech in Information Technology
-- 🔨 Currently building my portfolio and side projects
-- 🚀 Goal: Launch a product and break into the startup world
-- 📖 Always learning — whether it's code, business, or life
-- 🎬 Interested in content creation and sharing my dev journey
+-  B.Tech in Information Technology
+-  Currently building my portfolio and side projects
+-  Goal: Launch a product and break into the startup world
+-  Always learning — whether it's code, business, or life
+-  Interested in content creation and sharing my dev journey
 
 ---
 
@@ -54,10 +54,10 @@ I'm a passionate IT engineering student who loves building things for the web. I
 
 ## Currently Learning 📚
 
-- ⚛️ Advanced React (hooks, performance, animations)
-- 🌐 Node.js + Express REST APIs
-- 🔐 Authentication & JWT
-- 📦 Building full-stack apps end to end
+-  Advanced React (hooks, performance, animations)
+-  Node.js + Express REST APIs
+-  Authentication & JWT
+-  Building full-stack apps end to end
 
 ---
 
@@ -74,9 +74,9 @@ I'm a passionate IT engineering student who loves building things for the web. I
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| 🌐 Portfolio | Personal portfolio site | React, Vite, Tailwind | [Live](https://portfolio-kappa-red-tqutq6nd1i.vercel.app) |
-| 🚀 Coming Soon... | Building in progress | — | — |
-| 🔧 Coming Soon... | Building in progress | — | — |
+|  Portfolio | Personal portfolio site | React, Vite, Tailwind | [Live](https://portfolio-kappa-red-tqutq6nd1i.vercel.app) |
+|  Coming Soon... | Building in progress | — | — |
+|  Coming Soon... | Building in progress | — | — |
 
 ---
 
