@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rahul%20Tanwar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IT%20Engineering%20Student%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rahul+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80;Full+Stack+Dev+in+the+making+%E2%9A%A1;One+commit+closer+every+day+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rahul;I+build+things+for+the+web;Full+Stack+Dev+in+the+making;One+commit+closer+every+day" alt="Typing SVG" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000000?style=for-the-badge)](https://portfolio-kappa-red-tqutq6nd1i.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kappa-red-tqutq6nd1i.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/top_rahul21)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanwarrahul9982@gmail.com)
@@ -21,24 +19,24 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```javascript
 const rahul = {
-  name:       "Rahul Tanwar",
-  role:       "Full Stack Developer",
-  education:  "B.Tech — Information Technology 🎓",
-  location:   "India 🇮🇳",
-  building:   ["JARVIS Dev Edition 🤖", "Next big thing... 🔨"],
-  learning:   ["Advanced React", "Node.js + Express", "DSA"],
-  goal:       "Ship real products → Break into startups → Never stop building",
-  funFact:    "I debug with console.log and I am not ashamed 😂"
+  name:      "Rahul Tanwar",
+  role:      "Full Stack Developer",
+  education: "B.Tech — Information Technology",
+  location:  "India",
+  building:  ["JARVIS Dev Edition", "Next big thing..."],
+  learning:  ["Advanced React", "Node.js + Express", "DSA"],
+  goal:      "Ship real products. Break into startups. Never stop building.",
+  funFact:   "I debug with console.log and I am not ashamed"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -58,7 +56,7 @@ const rahul = {
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <div align="center">
 
@@ -70,15 +68,15 @@ const rahul = {
 
 <br/>
 
-| 🧠 Project | 📝 Description | ⚙️ Stack | 🔗 |
+| Project | Description | Stack | Link |
 |---|---|---|---|
-| **Portfolio** | Personal dev portfolio | React · Vite · Tailwind | [Live 🌐](https://portfolio-kappa-red-tqutq6nd1i.vercel.app) |
-| **JARVIS Dev Edition** | AI keyboard-first developer platform | React · Groq · Claude API | 🔨 Building |
-| **Coming soon...** | Next project in the works | — | 👀 |
+| Portfolio | Personal developer portfolio | React · Vite · Tailwind | [Live](https://portfolio-kappa-red-tqutq6nd1i.vercel.app) |
+| JARVIS Dev Edition | AI-powered keyboard-first developer platform | React · Groq · Claude API | In progress |
+| Coming soon | Next project in the works | — | — |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -93,7 +91,7 @@ const rahul = {
 
 ---
 
-## 🏆 GitHub Trophies
+## Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=TanwarRahul21&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
@@ -101,15 +99,15 @@ const rahul = {
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanwarRahul21&theme=tokyo-night&hide_border=true&area=true&custom_title=Rahul's%20Contribution%20Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanwarRahul21&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>
 
 ---
 
-## 🐍 My Contributions Getting Eaten
+## Contribution Snake
 
 <div align="center">
 <picture>
@@ -121,13 +119,13 @@ const rahul = {
 
 ---
 
-## 🎯 Goals — 2025
+## Goals — 2025
 
-- [ ] 🚀 Ship **3 full-stack projects** by year end
-- [ ] 💼 Land a **tech internship**
-- [ ] 🌱 Contribute to **open source**
-- [ ] 👥 Build something **people actually use**
-- [ ] 📹 Document my **dev journey** publicly
+- [ ] Ship 3 full-stack projects by year end
+- [ ] Land a tech internship
+- [ ] Contribute to open source
+- [ ] Build something people actually use
+- [ ] Start sharing my dev journey publicly
 
 ---
 
@@ -137,6 +135,6 @@ const rahul = {
 
 *"Code. Ship. Learn. Repeat."*
 
-**⭐ Drop a star if something I built helped you — it means the world!**
+**Drop a star if something I built helped you.**
 
 </div>
