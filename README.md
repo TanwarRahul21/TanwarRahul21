@@ -48,8 +48,13 @@ const rahul = {
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=TanwarRahul21&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&icon_color=58a6ff" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanwarRahul21&layout=compact&theme=github_dark&hide_border=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TanwarRahul21&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&icon_color=58a6ff&cache_seconds=86400" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanwarRahul21&layout=compact&theme=github_dark&hide_border=true&hide_title=true&cache_seconds=86400&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TanwarRahul21&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
