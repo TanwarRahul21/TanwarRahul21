@@ -27,9 +27,9 @@ const rahul = {
 
 | | Project | Stack | Status |
 |--|---------|-------|--------|
-|  [JARVIS Dev Edition](https://github.com/TanwarRahul21) | React · Claude API · Groq | In Progress |
-|  [MindSpace 3D](https://github.com/TanwarRahul21) | Node · MongoDB · Three.js | Completed |
-|  [Portfolio](https://portfolio-kappa-red-tqutq6nd1i.vercel.app) | React · Vite · Tailwind | Live |
+| [Cloud Music Player](https://github.com/TanwarRahul21) | React · Node.js · Express · MongoDB | Completed |
+| [MindSpace 3D](https://github.com/TanwarRahul21) | Node · MongoDB · Three.js | Completed |
+| [Portfolio](https://portfolio-kappa-red-tqutq6nd1i.vercel.app) | React · Vite · Tailwind | Live |
 
 ---
 
