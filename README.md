@@ -27,7 +27,6 @@ const rahul = {
   role:      "Full Stack Developer",
   education: "B.Tech — Information Technology",
   location:  "India",
-  building:  ["JARVIS Dev Edition", "Next big thing..."],
   learning:  ["Advanced React", "Node.js + Express", "DSA"],
   goal:      "Ship real products. Break into startups. Never stop building.",
   funFact:   "I debug with console.log and I am not ashamed"
