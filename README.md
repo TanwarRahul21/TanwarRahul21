@@ -1,13 +1,24 @@
 <div align="center">
 
-<h1>Rahul Tanwar</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header" width="100%"/>
 
-<p>Full Stack Developer · IT Engineering Student · India</p>
+# Rahul Tanwar
+### Full Stack Developer · IT Engineering Student · Mumbai, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-kappa-red-tqutq6nd1i.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/top_rahul21)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=flat-square&logo=gmail&logoColor=white)](mailto:tanwarrahul9982@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/TanwarRahul21)
+<p>
+  <a href="https://rahultanwar-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF4B00?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/top_rahul21">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:tanwarrahul9982@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-tanwar-r45j16">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -18,41 +29,49 @@ const rahul = {
   focus:    "building real things",
   stack:    ["React", "Node.js", "MongoDB", "Tailwind"],
   goal:     "ship products · crack internships · never stop learning",
+  status:   "open to internships · collaborations · interesting problems",
 };
 ```
 
 ---
 
-**Projects**
+## Projects
 
-| | Project | Stack | Status |
-|--|---------|-------|--------|
+| Project | Stack | Status |
+|---------|-------|--------|
 | [Cloud Music Player](https://github.com/TanwarRahul21) | React · Node.js · Express · MongoDB | Completed |
-| [MindSpace 3D](https://github.com/TanwarRahul21) | Node · MongoDB · Three.js | Completed |
-| [Portfolio](https://portfolio-kappa-red-tqutq6nd1i.vercel.app) | React · Vite · Tailwind | Live |
+| [MindSpace 3D](https://github.com/TanwarRahul21) | Node.js · MongoDB · Three.js | Completed |
+| [Portfolio](https://rahultanwar-dev.vercel.app) | React · Vite · Tailwind | Live |
 
 ---
 
-**Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=3C873A)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/Tailwind-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF)
-![Express](https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
-
----
+## Tech Stack
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TanwarRahul21&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&icon_color=58a6ff&cache_seconds=86400" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanwarRahul21&layout=compact&theme=github_dark&hide_border=true&hide_title=true&cache_seconds=86400&langs_count=6" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=3C873A)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-20232A?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
 
-<br/><br/>
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TanwarRahul21&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&icon_color=58a6ff&include_all_commits=true" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanwarRahul21&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=6" />
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TanwarRahul21&theme=github-dark-blue&hide_border=true" />
 
@@ -60,6 +79,24 @@ const rahul = {
 
 ---
 
+## Achievements
+
 <div align="center">
-<sub>open to internships · collaborations · interesting problems</sub>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TanwarRahul21&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
+
+---
+
+<div align="center">
+
+### Let's connect and build something great together
+
+*open to internships · collaborations · interesting problems*
+
+<img src="https://komarev.com/ghpvc/?username=TanwarRahul21&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%"/>
