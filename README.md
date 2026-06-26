@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header" width="100%"/>
 
 # Rahul Tanwar
@@ -19,7 +18,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 </div>
 
 ---
@@ -27,9 +25,10 @@
 ```ts
 const rahul = {
   focus:    "building real things",
-  stack:    ["React", "Node.js", "MongoDB", "Tailwind"],
+  stack:    ["React", "Node.js", "MongoDB", "Tailwind", "Three.js"],
   goal:     "ship products · crack internships · never stop learning",
   status:   "open to internships · collaborations · interesting problems",
+  building: "premium web experiences with modern UI & motion design",
 };
 ```
 
@@ -37,11 +36,12 @@ const rahul = {
 
 ## Projects
 
-| Project | Stack | Status |
-|---------|-------|--------|
-| [Cloud Music Player](https://github.com/TanwarRahul21) | React · Node.js · Express · MongoDB | Completed |
-| [MindSpace 3D](https://github.com/TanwarRahul21) | Node.js · MongoDB · Three.js | Completed |
-| [Portfolio](https://rahultanwar-dev.vercel.app) | React · Vite · Tailwind | Live |
+| Project | Stack | Live | Status |
+|---------|-------|------|--------|
+| [Aurora Brew](https://github.com/TanwarRahul21/Coffie-Shop) | HTML · CSS · JS · Supabase | [Live](https://coffie-shop-neon.vercel.app) | Completed |
+| [Cloud Music Player](https://github.com/TanwarRahul21) | React · Node.js · Express · MongoDB | — | Completed |
+| [MindSpace 3D](https://github.com/TanwarRahul21) | Node.js · MongoDB · Three.js | — | Completed |
+| [Portfolio](https://rahultanwar-dev.vercel.app) | React · Vite · Tailwind | [Live](https://rahultanwar-dev.vercel.app) | Live |
 
 ---
 
@@ -57,6 +57,7 @@ const rahul = {
 ![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-20232A?style=for-the-badge&logo=threedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
@@ -91,7 +92,7 @@ const rahul = {
 
 <div align="center">
 
-### Let's connect and build something great together
+### Let's connect and build something together
 
 *open to internships · collaborations · interesting problems*
 
