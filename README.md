@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/README.md << 'READMEEOF'
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahul%20Tanwar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20IT%20Engineering%20Student%20%C2%B7%20Mumbai&descAlignY=55&descSize=16" width="100%"/>
 </div>
@@ -44,6 +43,7 @@ const rahul = {
 
 | Project | Stack | Live | Status |
 |---------|-------|------|--------|
+| [Fathom Studio](https://github.com/TanwarRahul21/fathom-studio) | React · TypeScript · Tailwind · Framer Motion · Supabase | [Live](https://fathom-studio-rho.vercel.app) | Live |
 | [Aurora Brew](https://github.com/TanwarRahul21/Coffie-Shop) | HTML · CSS · JS · Supabase | [Live](https://coffie-shop-neon.vercel.app) | Completed |
 | [Cloud Music Player](https://github.com/TanwarRahul21/music-cloud-app) | React · Node.js · Express · MongoDB | — | Completed |
 | [MindSpace 3D](https://github.com/TanwarRahul21/MindSpace) | Node.js · MongoDB · Three.js | — | Completed |
@@ -121,4 +121,3 @@ const rahul = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-READMEEOF
