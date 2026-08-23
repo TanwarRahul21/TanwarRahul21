@@ -51,9 +51,14 @@ Personal site with a 3D lanyard interaction, scroll animation, and a working con
 
 ## Stack
 
-**Frontend** &nbsp; `React` `TypeScript` `Tailwind CSS` `Three.js` `Vite`
-**Backend** &nbsp; `Node.js` `Express` `MongoDB` `Supabase`
-**Tools** &nbsp; `Git` `GitHub` `VS Code` `Vercel`
+**Frontend**
+`React` `TypeScript` `Tailwind CSS` `Three.js` `Vite`
+
+**Backend**
+`Node.js` `Express` `MongoDB` `Supabase`
+
+**Tools**
+`Git` `GitHub` `VS Code` `Vercel`
 
 <br/>
 
