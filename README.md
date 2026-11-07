@@ -19,7 +19,7 @@
 <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
 <a href="#how-i-build">How I build</a> &nbsp;·&nbsp;
 <a href="#tech-stack">Stack</a> &nbsp;·&nbsp;
-<a href="#github-stats">Stats</a> &nbsp;·&nbsp;
+<a href="#github-activity">Activity</a> &nbsp;·&nbsp;
 <a href="#lets-work-together">Contact</a>
 
 </div>
@@ -148,16 +148,16 @@ Every project above is deployed and clickable. I'd rather ship something small a
 
 <br/>
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TanwarRahul21&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanwarRahul21&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=TanwarRahul21&hide_border=true&theme=github-dark&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanwarRahul21&bg_color=0d1117&color=58A6FF&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
+<br/><br/>
+
+<a href="https://github.com/TanwarRahul21?tab=followers"><img src="https://img.shields.io/github/followers/TanwarRahul21?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0d1117&color=1f6feb" alt="GitHub followers"/></a>
+<a href="https://github.com/TanwarRahul21/MindSpace/commits"><img src="https://img.shields.io/github/last-commit/TanwarRahul21/MindSpace?style=for-the-badge&label=MindSpace%20last%20commit&logo=git&logoColor=58A6FF&labelColor=0d1117&color=1f6feb" alt="MindSpace last commit"/></a>
 
 </div>
 
